@@ -1,0 +1,4 @@
+
+//contract address
+export const WHITELIST_CONTRACT_ADDRESS = "0xDEBf9D0a4b7745872d256D392A6d4Cf853CEf01d";
+
