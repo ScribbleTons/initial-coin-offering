@@ -1,3 +1,3 @@
-# Nextjs Dapp Starter Kit
-This is a starter kit for nextjs dapp development.
+# Initial Coin Offering
+This is an initial coin offering built with nextjs.
 Using hardhat to deploy to ethereum network.
